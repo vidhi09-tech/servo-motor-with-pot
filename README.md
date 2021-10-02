@@ -5,7 +5,7 @@ Controlling servo motor with potentiometer
 .
 
 
-FOR CIRCUIT WORKING:  FOLLOW MY YOUTUBE LINK: https://youtu.be/j91tnJVPaTo
+FOR CIRCUIT WORKING:  FOLLOW MY YOUTUBE LINK and Subscribe my channel: https://youtu.be/j91tnJVPaTo
 
 .
 .
